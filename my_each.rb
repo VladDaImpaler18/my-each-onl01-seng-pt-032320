@@ -8,4 +8,5 @@ def my_each(array)
    array
  else
    Puts "ERROR, no block given"
+ end
 end
