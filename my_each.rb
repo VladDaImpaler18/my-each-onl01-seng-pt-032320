@@ -7,5 +7,5 @@ def my_each(array)
    end
    array
  else
-   
+   Puts "ERROR, no block given"
 end
